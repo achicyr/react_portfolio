@@ -1,0 +1,80 @@
+{
+  "home":
+    {
+      "diapo":
+        [
+          {"src": "img/home/carousel/fullstack.jpg", "class": "carousel-img1", "alt": "fullstack web developper", "h3": "A good web-developper can manage a lots of web techs", "fig": "What's a fullstack web developper is all about ?", "fig_": "I learned web technologies by myself but also trough academy (EMWEB, OpenClassrooms, ..)"},
+          {"src": "img/home/carousel/sem.png", "class": "carousel-img2", "alt": "search engine marketing", "h3": "Marketing is essential for any web developper activity level", "fig": "What web marketing means in reality ?", "fig_": "I started long time ago a lots of marketing concepts related to the Internet." },
+          {"src": "img/home/carousel/google.png", "class": "carousel-img3", "alt": "google technologies", "h3": "Google is essential not just for marketing on the Internet", "fig": "Certifications, for what purposes ?", "fig_": "...but also in web-development. Yeah, google is my best freind, and I assume it is the same for you. I am taking google certifications every years since 2018."},
+          {"src": "img/home/carousel/freelance.jpg", "class": "carousel-img3", "alt": "becoming freelance", "h3": "Becoming freelance in web-development and more..", "fig": "You said freelance ? (no I said it :p)", "fig_": "I am searching for a good job of course, where I could collect always more skills. But on the same time, I aim developping an individual activity to offer services in web-development all around the world trough the the Internet."}
+        ],
+      "article":
+        {
+          "img": {"src": "img/home/mwa.jpg", "alt": "Cyrille ACHI Web Developper"},
+          "title": "Hello you!",
+          "p": [
+            "My name is Cyrille ACHI, I am 33 year old now and I am pleased to present myself to you today ! I hope we'll meet soon !",
+            "Middlewhile, please let know more <Link href='/about'>about me</Link>, fill free to <a href='/contact'>contact me</a> for any purpose you would, or more, take a glance at what I am able to do in web-development as a <a href='/skills'>Fullstack web developper</a>.",
+            "Of course, feel free to visit me on social networks with links you'll finid on bottom on this portfolio !"
+          ]
+        }
+    },
+    "footer": {
+      "blocks": [
+        {
+          "h3": "Find me on social networks",
+          "items": [
+            {"href": "https://www.facebook.com/achi.agnissan", "title": "My own facebook account", "texte": "Facebook: Achi"},
+            {"href": "https://github.com/achicyr", "title": "My own github account", "texte": "Github: achicyr"}
+          ]
+        },
+        {
+          "h3": "Find website I made",
+          "items": [
+            {"href": "https://2mains-marketing.com/", "title": "Made with wordpress", "texte": "Agence marketing"},
+            {"href": "http://archist.me/wp/2", "title": "Made with wordpress", "texte": "Blog sur le japon"},
+            {"href": "http://archist.me/ps/3", "title": "Made with prestashop", "texte": "Boutique d'articles japonais"}
+          ]
+        },
+        {
+          "h3": "Find usefull links about me you may need",
+          "items": [
+            {"texte": "Resume", "title": "My curriculum vitae", "href": "https://drive.google.com/open?id=1abUqoLJg0ts-_lUFoarZYLz9QeYUTzVH"}
+          ]
+        }
+      ]
+    },
+    "contact":
+    {
+      "showContacts":
+      [
+        {"item": "email", "src": "email.png", "alt": "email archist webdevelopper", "data": "hi.cyril@gmail.com", "href": "mailto:hi.cyril@gmail.com"},
+        {"item": "phone", "src": "phone.png", "alt": "call archist webdevelopper", "data": "0033641394588", "href": "tel:0033641394588"},
+        {"item": "map", "src": "map.png", "alt": "localise where you can meet archist webdevelopper", "data": "", "href": ""},
+        {"item": "rs", "src": "socialnetworks.png", "alt": "see archist webdevelopper's activities on the Internet", "data": {"Facebook": "https://www.facebook.com/achi.agnissan", "Github": "https://github.com/achicyr", "Twitter": "https://twitter.com/AchCyr"}}
+      ]
+    },
+    "about":
+    {
+      "intro":  {"h2": "We only become what we are because of our childhood story.. Knowing someone is knowing his childhood", "src": "", "alt": "Archist webdev at 10year old", "p": "I was born in Ivory Coast, in west Africa. My father is an Ivoirian, and my mother is French, they are both christian engaged in everyday life.<br> I have 4 brothers et sisters, now only my sister and I live in France, all others live in Ivory Coast.<br> I did international (<a href=''>Mermoz</a>) and french (<a href=''>BlaisePascal</a>) school there.<br/>It was an happy childhood, and Ivory Coast miss me quite often even if poverty there is overwhelming, my family and old good friends still live there, so is the primary reason why..<br/>Finally, due to insecured event around 2005, I came prematurely to finish my high school in France in 1st grade of scientist stream in the <a href=''>Pierre d'Ailly</a> high school in Oise, Picardie. I really really liked this little place evenif it is a small cold country town :) I made very good friends I just could not imagine I would have. It certainly means that bad events can bright good opportunities ;) ", "button": "the short story of my childhood"},
+      "universitaire": {"id": 1,"src": "", "alt": "", "h3": "Second part of an instruct person's soul: the university path", "p": "My university path is not unidirectional, and is made of back and forth. The more essential is that I Finally found what I really want to do of my life, isn't it ?!", "items": [
+        {"href": "http://unice.fr/iut/contenus-riches/plaquettes-dut/dut-r-t", "src":"r&t.png", "h4": "NETWORK & TELECOMMUNICATION", "p": "The R&T department trains neticians * who will be recruited in the IT field applied to the transmission of all types of data. They are specialists in administration, maintenance, security and evolution of computer networks.", "_": ["Bachelor’s Degree", "University Institute of Technology", "UFR Nice-Sophia-antipolis, Nice, France", "1 year"]}  ,
+        {"href": "http://unice.fr/faculte-des-sciences/contenus-riches/documents-telechargeables/page-daccueil/licence-mass-2018/at_download/file", "src":"mass.png", "h4": "MATHEMATICS APPLIED to SOCIAL SCIENCES", "p": "The MASS course of the MIASHS License prepares students for entry into Schools of Statistics (ISUP), Grandes Ecoles (ENSAE, ENSAI, ...), in Engineering Schools, Business Schools, in the Magistrates of Financial Engineering. Holders of this course may in particular choose the following UNS Masters: 1)Economic Expertise; 2) Mathematical Engineering.", "_": ["Bachelor’s Degree", "Université Valrose", "UFR Nice-Sophia-antipolis, Nice, France"]},
+        {"href": "http://lp-imash.unice.fr/index.php", "src":"imapp.png", "h4": "MULTIMEDIA COMPUTING APPLIED TO HUMAN SCIENCES", "p": "The IMApp Professional License aims to train technicians with dual skills. The initial competence is completed in one year by a topical technical competence, Multimedia Computing applied to the development of websites. The pedagogy is focused on the acquisition of website development techniques, immediately put into practice through realistic 'concrete' projects and the systematic professionalization of acquired skills.", "_": ["Bachelor’s Degree", "Université St JEan d'Angély", "UFR Nice-Sophia-antipolis, Nice, France"]},
+        {"href": "https://www.esecad.com/formation-web/integrateur-developpeur/metier/", "src":"emweb.png", "h4": "Internet Formation(EMWEB)", "p": "The future graduate will be able to create responsive websites that comply with the constraints of the web environment in terms of accessibility, ergonomics and compliance with standards.", "_": ["'Bachelor’s Degree' equivalence", "Online path"]},
+        {"href": "https://openclassrooms.com/fr/paths/104-full-stack-developer#path_start", "src":"oc.png", "h4": "Internet Formation(OpenClassrooms)", "p": "Here at OpenClassrooms, we pinpoint the key skills needed for the most in-demand jobs and develop courses and diplomas to train our students in those areas. That’s why we've developed this one-year bachelor’s-level diploma in web development, which you can complete entirely online with the help of a dedicated mentor.", "_": ["'Bachelor’s Degree' equivalence", "Online path"]}
+      ]},
+      "webdev": {"id": 2,"src": "", "alt": "", "h3": "Finally, I well understood that web computing is one of the only things that could let me flourish", "items": [
+        {"h4": "My first step at university", "p": "During a year-end project, I first knew IT development throught JavaJ2E by constructing a simple application recieving input datas and outputing a result. It was magic, so that led me leaving statistic studying to join web computing."}  ,
+        {"h4": "My first year in web development at university", "p": "As every beginner in computing, I felt a large perspective of possibilities opening to me while the first year of computer learning. After university internship, I did not succeed to find a job. So I just continued learning by my own and constructing applications I would have like it exist."}  ,
+        {"h4": "Then I completed my cursus with online courses", "p": "While finding a job was quite difficult in distant locations I reside and responsabilities I had with my family, I started online cursus that permit me finding easily traineeships and alternating training at <a href='https://www.esecad.com/formation-web'>emweb</a> and <a href='https://openclassrooms.com/'>openclassrooms</a>"}  ,
+        {"h4": "Now in openclassrooms,.. ", "p": "I am working in alternating training in a marketing compagny in Aix-en-Provence called <a href='https://mindfruits.biz'>Mindfruits</a> where I can easily learn google technologies, those I just wanted to learn several years ago. I am engage for 2 years, and will finish this path for gaining fullstack knowledge in september 2021.<br/>I could then either find a job through competence with high demand in every activity, or do and create my own actiivty."}  ,
+        {"h4": "The future looks great, but still stay the futur, uncertain, hard to grab, and strewn with pitfalls", "p": "I would like to go to Japan, the holyland of technology. I also would like to construct my own activity. But an other thing that would be great would be to find a job that permit me continue to evolve in computing skills. So I am open mind to what futur have to offer !"}
+      ]},
+      "hobbies": {"id": 3,"src": "", "alt": "", "h3": "Appart from the compting, my hobbies are..", "items": [
+        {"class":"japan", "h4": "Japanese language and culture", "p": "I started learn japanese as a challenge in 2015, and I still continue and i've already grabed good level. Japanese's cuture just fascinate me, I would love to visit and even more, live there a few years."}  ,
+        {"class":"music", "h4": "Music", "p": "I started learn music theory late, I haven't a large knowledge of music, but I aim to enlarge more and more my general culture in music. I play guitare and piano a little, I dance latin musics like salsa, and I aim to be able to compose one day."}  ,
+        {"class":"art", "h4": "Cinematographic and Art", "p": "I like sience fiction, movies about technology and social criticism. I like painting and photography, I do practice sometimes. Also, I like visit museum sometimes."}
+      ]}
+    }
+}
